@@ -1,0 +1,5 @@
+{
+    "cmd": ["/Users/jess/opt/anaconda3/bin/python", "-u", "$file"],
+    "selector": "source.python",
+    "env": {"PYTHONPATH": "/Users/jess/opt/anaconda3/bin/python"}
+}
